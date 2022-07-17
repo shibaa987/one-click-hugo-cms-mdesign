@@ -2,7 +2,7 @@
 title: Full Hand Mehndi Design
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Full hand ehndi design is typically done on special occasions like Marriage, ring ceremony etc.
+  Full hand Mehndi design is typically done on special occasions like Marriage, ring ceremony etc.
   Here I have got everal designs for you.
 image: [/img/blog-chemex.jpg](https://mehndidesign.io/wp-content/uploads/2022/07/fullhand-mehndi-design.jpeg)
 ---
