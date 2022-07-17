@@ -4,7 +4,7 @@ subtitle: Find here the Best Mehndi Designs across the world.
 image: /img/mehndi-designs.png
 blurb:
     heading: Why Mehndi Design?
-    text: "I am a professional Mehndi Designer and people admire my Mehndi Design work across the world. Find my designs and you tell yourself what is the difference do you find?"
+    text: "I am a professional Mehndi Designer and people admire my [Mehndi Design work](https://mehndidesign.io/) across the world. Find my designs and you tell yourself what is the difference do you find?"
 intro:
     heading: "What Types of Desgins do we offer?"
     text: "We offer a lot of varieties and based on people's requirements. We bring you fll hand mehndi designs, Bridal Mehndi designs, Finger Mehndi designs etc."
