@@ -3,7 +3,7 @@ title: A beginners’ guide to Mendi Design
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Bringing you the step-by-step guide on how to design Mehndi on your hands.
-image: /img/blog-chemex.jpg
+image: /img/mehndi-designs.png
 ---
 
 Whatever name you know it by—Mehndi, Mehendi, or Mehandi—it all refers to the same thing. Please don't be confused because I may use a variety of terminology in my works in the future.
