@@ -7,13 +7,13 @@ blurb:
     text: "I am a professional Mehndi Designer and people admire my Mehndi Design work across the world. Find my designs and you tell yourself what is the difference do you find?"
 intro:
     heading: "What Types of Desgins do we offer?"
-    text: "We offer a lot of varieties and based on people's requirements. We bring you fll hand mehndi designs, Bridal Mehndi designs, Finger Mehndi designs etc."
+    text: "We offer a lot of varieties of designs and based on people's requirements. We bring you fll hand mehndi designs, Bridal Mehndi designs, Finger Mehndi designs etc."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Our primary product is the various exclusive designs that we bring for the people."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Some of our exclusive designs are wprld famous as well."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: We work for customer satisfaction and that's what you get in the end.
 ---
